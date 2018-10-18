@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1539865274 source:c:\users\agus_\desktop\facultad\programacion ii\proyectofinal[edificio]\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tpFinal.h"
+	"estructuras.h"
+
+1539811704 c:\users\agus_\desktop\facultad\programacion ii\proyectofinal[edificio]\tpfinal.h
+
+1539865274 c:\users\agus_\desktop\facultad\programacion ii\proyectofinal[edificio]\estructuras.h
+
+1539808704 source:c:\users\agus_\desktop\facultad\programacion ii\proyectofinal[edificio]\tpfinal.c
+	<stdio.h>
+	<stdlib.h>
+	"tpFinal.h"
+	"estructuras.h"
+
+1539810139 source:c:\users\agus_\desktop\facultad\programacion ii\proyectofinal[edificio]\tpfinalvisuales.c
+	<stdio.h>
+	<stdlib.h>
+	"tpFinal.h"
+	"estructuras.h"
+
+1539865274 source:c:\users\agus_\desktop\facultad\programacion ii\proyectofinal[edificio]\tpfinaloplogicas.c
+	<stdio.h>
+	<stdlib.h>
+	"tpFinal.h"
+	"estructuras.h"
+
